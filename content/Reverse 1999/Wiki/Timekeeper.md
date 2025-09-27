@@ -1,0 +1,1 @@
+Người quan sát dòng thời gian. Cô là 

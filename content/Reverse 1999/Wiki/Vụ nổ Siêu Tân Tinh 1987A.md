@@ -1,0 +1,5 @@
+SN 1987A là một siêu tân tinh loại II trong Đám mây Magellan Lớn, một thiên hà vệ tinh lùn của Ngân Hà. Nó xảy ra cách Trái Đất xấp xỉ 51,4 kiloparsec (168.000 năm ánh sáng) và là siêu tân tinh gần nhất từng được quan sát kể từ Siêu tân tinh Kepler năm 1604. Ánh sáng và neutrino từ vụ nổ đã đến Trái Đất vào ngày 23 tháng 2 năm 1987, và nó được đặt tên là “SN 1987A” vì là siêu tân tinh đầu tiên được phát hiện trong năm đó. Độ sáng của nó đạt cực đại vào tháng 5 cùng năm, với cấp sao biểu kiến khoảng 3, sáng hơn cả ngôi sao sáng nhất trong chòm sao đó, Alpha Doradus.
+
+Năm 1987, siêu tân tinh 1987A trong Đám mây Magellan Lớn đã được quan sát chỉ vài giờ sau khi ánh sáng của nó đến Trái Đất. Đây là siêu tân tinh đầu tiên được phát hiện thông qua bức xạ neutrino và cũng là siêu tân tinh đầu tiên được quan sát trên toàn bộ dải phổ điện từ.
+
+Trích nguồn [Wiki](https://en.wikipedia.org/wiki/SN_1987A).

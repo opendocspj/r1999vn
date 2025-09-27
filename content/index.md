@@ -6,4 +6,4 @@ Hướng dẫn sử dụng page:
 2. Page được tạo ra vì mình rất thích tựa game này. 
 3. [[Danh Sách Cốt Truyện]] xem tại đây.
 4. Các bạn có thể theo dõi [[ChangeLog]] để xem trang này có update gì mới.
-5. Ngoài ra các bạn có thể ủng hộ mình nếu muốn mình dịch nhanh hơn (hehe).
+5. Ngoài ra các bạn có thể ủng hộ mình nếu muốn mình dịch nhanh hơn (hehe)..
